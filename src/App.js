@@ -37,7 +37,7 @@ function App() {
             marginRight: '10px'
           }}
         />
-        <p>Converted price: {convertedPrice.toFixed(2)}</p>
+        <p>Converted price: {convertedPrice.toFixed(3)}</p>
       </div>
     </div>
   );
